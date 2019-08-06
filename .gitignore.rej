@@ -1,0 +1,6 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -260,3 +260,4 @@
+ __pycache__/
+ *.pyc
+ LeetCode/main.cpp
++LeetCode/.vscode/settings.json

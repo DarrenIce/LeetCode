@@ -261,3 +261,6 @@ __pycache__/
 *.pyc
 LeetCode/main.cpp
 LeetCode/.vscode/settings.json
+LeetCode/LeetCode.vcxproj.filters
+LeetCode.sln
+LeetCode.sln.rej
